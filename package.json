@@ -1,0 +1,21 @@
+{
+  "name": "abc-da-amazonia",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "O ABC da Amazonia é um projeto que tem como objetivo ensinar as crianças sobre a cultura e a fauna da região amazônica.",
+  "bin": "index.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Pedro Peregrina",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pedroperegrinaa/abc-da-amazonia.git"
+  },
+  "dependencies": {
+    "commander": "^12.0.0"
+  }
+}
